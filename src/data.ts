@@ -19,7 +19,7 @@ export const personalInfo = {
   github: "https://github.com/MrOmarJnr",
   linkedin: "https://www.linkedin.com/in/emmanuel-appiah-884b45aa/",
   whatsapp: "https://wa.me/233543150780",
-  resumeUrl: "https://drive.google.com/file/d/1OR7bz_oUhhxzrV6pmalDcUAcJOaL8yB4/view?usp=sharing",
+  resumeUrl: "https://drive.google.com/file/d/1H_QagPFW6mtvOeplyNEuza8mqTRlrvua/view?usp=drive_link",
   about: "Systems engineer with hands-on experience building and maintaining high-availability cloud infrastructure and automated deployment pipelines. Specialized in bridging the gap between development and operations through container orchestration, infrastructure-as-code, and proactive monitoring. Proven track record of delivering production-grade platforms that scale to meet enterprise and government demands.",
 };
 
