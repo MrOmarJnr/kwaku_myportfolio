@@ -280,6 +280,22 @@ export default function App() {
                         </span>
                       ))}
                     </div>
+                    {project.links && (
+                    <div className="mt-6 flex flex-col gap-2">
+                      {project.links.map((link, i) => (
+                        <a
+                          key={i}
+                          href={link}
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          className="text-sm text-brand-accent hover:text-white transition flex items-center gap-2"
+                        >
+                          {link.replace('https://', '')}
+                          <ExternalLink size={14} />
+                        </a>
+                      ))}
+                    </div>
+)}
                   </div>
                 </div>
               </div>
