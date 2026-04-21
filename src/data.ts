@@ -69,6 +69,22 @@ export const projects = [
     flow: ["User (USSD/Web)", "Payment API (Hubtel)", "Radius Server", "MikroTik Router", "Internet Access"]
   },
   {
+  title: "Client Website Portfolio",
+  problem: "Businesses needed modern, responsive and production-ready websites.",
+  solution: "Designed and deployed multiple production websites with optimized performance, hosting, and domain configurations.",
+  impact: "Delivered live systems used by real users across multiple organizations.",
+  tech: ["HTML", "CSS", "React", "Vercel", "cPanel", "DNS"],
+  deployment: "Live in production",
+  links: [
+    "https://net.ioxsolution.com/",
+    "https://noortravelsgh.com/",
+    "https://newtacahfweb.vercel.app/index.html",
+    "https://doc.gov.gh/",
+    "https://www.reactiveuk.com/",
+    "https://rcomsdep.gov.gh/"
+  ]
+},
+  {
     title: "ClearEnroll Platform Infrastructure",
     problem: "The client needed a scalable, containerized production environment to handle high-volume enrollment services with zero-downtime deployments.",
     solution: "Architected and deployed a multi-container environment using Docker Compose and Nginx on AWS EC2. Implemented a robust CI/CD pipeline using GitHub Actions and Docker Hub for automated builds and versioned deployments.",
