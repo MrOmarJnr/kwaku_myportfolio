@@ -81,7 +81,8 @@ export const projects = [
     "https://newtacahfweb.vercel.app/index.html",
     "https://doc.gov.gh/",
     "https://www.reactiveuk.com/",
-    "https://rcomsdep.gov.gh/"
+    "https://rcomsdep.gov.gh/",
+    "https://allrounditsol.com/",
   ]
 },
   {
