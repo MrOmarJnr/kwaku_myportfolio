@@ -91,7 +91,10 @@ export const projects = [
     impact: "Achieved automated deployment workflows with Watchtower, significantly reducing manual overhead and ensuring 99.9% system reliability during peak loads.",
     tech: ["Docker", "AWS EC2", "Nginx", "GitHub Actions", "Node.js", "MySQL"],
     deployment: "Live on AWS EC2 | Docker + Nginx",
-    flow: ["User", "Nginx (Reverse Proxy)", "App (Node.js)", "Database (MySQL)", "Watchtower (Auto-update)"]
+    flow: ["User", "Nginx (Reverse Proxy)", "App (Node.js)", "Database (MySQL)", "Watchtower (Auto-update)"],
+     links: [
+    "https://clearenrollportal.com/"
+  ]
   },
   {
     title: "Government Digital Performance Dashboards",
